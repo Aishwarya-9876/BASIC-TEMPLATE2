@@ -1,0 +1,27 @@
+we can use FONT AWESOME website foe all icons 
+we have to go to "cdnjs"https://cdnjs.com/libraries/font-awesome this link
+cdn means content delivery network it connects all icond=s from nearrest server
+border:border-box ante this means border should b inside content generally border will b drarwn out
+background-size: cover; ante logo anta cover chesthadi ani
+
+
+she told wrong  img:url( )no need to use any inverted commas and also best try copying the exact link of img dont type it took lot of tym to figure outr this
+( SHORTCUT).class name kodthe it gives me div with given cls 
+#class name isthe div wih given id chesthadi
+next pedda problem ekkadante always try formet doc and check closing div
+align items center ante height lo madyalo vasthad
+<select >
+  <option >All</option>
+</select>ante ippud etle vasthad ante all ani mank kanpisthad danni nokkithe options vasthay select cheskovachu
+input anedi kuda void element close tag oddu
+justify-content: space-evenly; ante ntante anni even ga set avthay
+if u say justify content space evenly then anni push left side ay anni even ga spread avthay
+inline means anni oke line lo manchiga arrange cheyochu
+<a><a/> anchor tag is for clickable things
+14px=0.85rem
+align-items: flex-end; ante horizontal ga kinda vasthadi
+<div class="box-img" style="background-image: url(CLASSROOM/box2_image.jpg);"></div> 
+inline lo style vadthey double quotes bayata and singles cotes lopal istam
+background-size:cover;
+  ila chesthe mana div loni background motham lo antha cover aypoddi cut kadu ex manam img vadam ga adi
+   display: block; ila chesthe  anni blocks laga  vasthay

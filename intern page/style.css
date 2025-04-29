@@ -1,0 +1,72 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #d49292;
+}
+.header{
+  /* border: 3px solid black; */
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  background-color: #d55d5d;
+  height: 70px;
+}
+
+.header ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  list-style: none;
+  margin-left: 300px;
+  background-color: #d55d5d;
+}
+.header img{
+  background-color: #d55d5d;
+}
+.header ul li{
+  margin: 0 20px;
+  background-color: #d55d5d;
+}
+
+.container{
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  width: 100%;
+}
+
+.container1, .container2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cart{
+  display: block;
+  /* border: 3px solid black; */
+  height: 100px;
+  width: 50%;
+  margin: 20px 20px;
+  border-radius: 8px;
+  padding: 10px 20px ;
+  text-align: justify;
+  background-color: #d55d5d;
+}
+.footer{
+ 
+  height: 100px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #d55d5d;
+ }
+ .footer p{
+  background-color: #d55d5d;
+ }
+ .my_designation{
+  font-weight: bold;
+  background-color: #d55d5d;
+
+ }

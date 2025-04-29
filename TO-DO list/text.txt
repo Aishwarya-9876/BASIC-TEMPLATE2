@@ -1,0 +1,16 @@
+.container>.todo app -> gives two div with clas comtainer and inner div with container name todo app
+form.input-area-> gives input with class name input area
+input or button:text -> gives input  with type text
+ so before using any lib we have to paste the url like cdjns
+ fonts.google.com for foronts  and sesrch and click get font then embed code  and copy link under import and pste here in beginning of style.css
+  and pste font family prop in body4
+  1st line
+  //ensures page runs after entire html is fully loaded
+  task input helps to collect input grom user
+  task text will help to  handle adding new task to todo list nd it trims extrs spcses 
+  if theres no tasktext then it returns  and it creates li and give value of thet is given input and append it and give space to next input
+  now after then if we click on + button add atsk should work 
+  when u press keys in placeholder  and when u click enter then it should add task
+when we remove the default event then our input task will b shoen below orelse it will go when reloaded
+if i use function and define any function only then it will b  hoisted meaning it can be accessible anywhere  even before calling the function 
+if i use var,const,let then it will not b hoisted
